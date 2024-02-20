@@ -4,7 +4,7 @@ function Header() {
         <h1 className="font-black text-5xl mx-auto uppercase text-center  md:w-2/3">
         Platillos y Bebidas{" "} <br/> 
         <span className="text-yellow-600">
-            Mirage
+            Mirage con Git Hub
         </span>
 
 
